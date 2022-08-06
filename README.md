@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyastc/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyaskacamera)
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyastc)
-[![Medium Badge](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shreyastc)
-- 🌱 I’m currently learning **RPA**
 
-- 📝 I regularly write articles on [**Medium**](https://shreyastc.medium.com/)
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about: **Data Science, Python, ML**
 
