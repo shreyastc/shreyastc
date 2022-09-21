@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I am a hobby photographer**
 
-- 📄 Know more about me:[**Shreyas_CV**](https://drive.google.com/file/d/1qTT5DuK5W8ohoKyIq0k4S-bW_M5XVgcr/view?usp=sharing)
+- 📄 Know more about me:[**Portfolio**](https://shreyastc.github.io/portfolio/)
 
 
 ## Stack I am comfortable with::rocket:
