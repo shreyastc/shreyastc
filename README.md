@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about: **Data Science, Python, ML**
+- 💬 Ask me about: **Web development, Data Science, Python, ML**
 
 - 📫 How to reach me: **shreyastcs@gmail.com**
 
