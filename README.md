@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 ## :rainbow: Hey Everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Shreyas
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mimansha98 alt=mimansha98/></p>  
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyastc/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyasnacamera)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyes19/)
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyastc)
 
 - 🌱 I’m currently learning **NLP**
